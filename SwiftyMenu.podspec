@@ -28,5 +28,5 @@ This drop down is to overcome the loss of usability and user experience due to t
   s.source_files = 'SwiftyMenu/Classes/**/*'
   s.resources = 'SwiftyMenu/Assets/*'
   
-  s.dependency 'SnapKit', '~> 5.0.1'
+  s.dependency 'SnapKit', '~> 5.6.0'
 end
